@@ -1,4 +1,4 @@
-python-3.11
+
 streamlit
 tensorflow==2.16.1
 pandas
