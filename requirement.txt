@@ -1,8 +1,8 @@
-
 streamlit
 tensorflow==2.16.1
-pandas
 numpy
+pandas
 scikit-learn
-tensorboard
 matplotlib
+tensorboard
+h5py
